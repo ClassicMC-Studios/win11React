@@ -11,7 +11,7 @@ todo*
 /coverage
 
 # production
-/build
+
 *.py
 rough*
 
